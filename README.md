@@ -13,7 +13,7 @@ Errors will be displayed in the browser's console.
 # Directories
 ### Project Folder Structure
 `./frontend/contracts`: Contains all the smart contracts files.\
-`./frontend/test`: Contains all the test scripts.\
+`./frontend/test`: Contains all the test scripts of smart contract.\
 `./frontend/scripts` : Contains the deployement scripts of smart contracts.\
 `./frontend/src/Components` : Contains the JSX components.\
 `./frontend/src/artifacts` : Contains the artifacts(abi) of smart contracts that generated through [`Hardhat`](https://hardhat.org/hardhat-runner/docs/guides/project-setup).\

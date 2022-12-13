@@ -1,4 +1,4 @@
-# Getting Started with Create Next App
+# Getting Started with Create React App
 This project was bootstrapped with [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html).
 ## Available Scripts
 In the project directory, you can run:

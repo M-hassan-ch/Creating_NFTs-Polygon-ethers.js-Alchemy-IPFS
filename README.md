@@ -10,6 +10,7 @@ Open [http://localhost:3000](http://localhost:3000).
 The page will reload automatically if you make changes in the code.\
 Errors will be displayed in the browser's console.
 
+# Directeries
 ### Project Folder Structure
 `./frontend/contracts`: Contains all the smart contracts files.\
 `./frontend/test`: Contains all the test scripts.\
@@ -17,7 +18,7 @@ Errors will be displayed in the browser's console.
 `./frontend/src/Components` : Contains the JSX components.\
 `./frontend/src/artifacts` : Contains the artifacts(abi) of smart contracts that generated through [`Hardhat`](https://hardhat.org/hardhat-runner/docs/guides/project-setup).\
 `./frontend/src/utility` : Contains the files of utility functions.\
-`./frontend/src/context` : Contains the files managing all the state variables related to the smart contract.\
+`./frontend/src/context` : Contains the files managing all the state variables related to the smart contract.
 
 ### Configuration files
-""`./frontend/harhat.config.js`"" contains all the deployement details (network, artifacts directory settings)  of smart contract. 
+**`./frontend/harhat.config.js`** contains all the deployement details (network, artifacts directory settings) of smart contract. 

@@ -9,15 +9,17 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000)
 The page will reload automatically if you make changes in the code.\
 Errors will be displayed in the browser's console.
-### Folder Structure
-Code is splitted into this pattern:
-1- Pages -> calling the sections from `sections` folder
-2- Sections -> setting up the structure of the page with responsiveness and call the components from `components` Folder
-3- Components -> setting up the the full fledge component or using small shared components from `shared` folder
+
 ### Project Folder Structure
-`./frontend/contracts` : Contains all the smart contracts files.\
-`./frontend/test`      : Contains all the test scripts.\
-`./frontend/scripts`   : Contains the deployement scripts of smart contracts.\
+`./frontend/contracts`: Contains all the smart contracts files.\
+`./frontend/test`: Contains all the test scripts.\
+`./frontend/scripts` : Contains the deployement scripts of smart contracts.\
+`./frontend/src/Components` : Contains the JSX components.\
+`./frontend/src/artifacts` : Contains the artifacts(abi) of smart contracts that generated through [`Hardhat`](https://hardhat.org/hardhat-runner/docs/guides/project-setup).\
+`./frontend/src/utility` : Contains the files of utility functions.\
+`./frontend/src/context` : Contains the files managing all the state variables related to the smart contract.\
+
+
 
 **Main Folders & Files**
 - Pages Folder

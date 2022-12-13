@@ -10,7 +10,7 @@ Open [http://localhost:3000](http://localhost:3000).
 The page will reload automatically if you make changes in the code.\
 Errors will be displayed in the browser's console.
 
-# Directeries
+# Directories
 ### Project Folder Structure
 `./frontend/contracts`: Contains all the smart contracts files.\
 `./frontend/test`: Contains all the test scripts.\

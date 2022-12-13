@@ -15,9 +15,9 @@ Code is splitted into this pattern:
 2- Sections -> setting up the structure of the page with responsiveness and call the components from `components` Folder
 3- Components -> setting up the the full fledge component or using small shared components from `shared` folder
 ### Project Folder Structure
-`./frontend/contracts` : Contains all the smart contracts files.
-`./frontend/test`      : Contains all the test scripts.
-`./frontend/scripts`   : Contains the deployement scripts of smart contracts.
+`./frontend/contracts` : Contains all the smart contracts files.\
+`./frontend/test`      : Contains all the test scripts.\
+`./frontend/scripts`   : Contains the deployement scripts of smart contracts.\
 
 **Main Folders & Files**
 - Pages Folder

@@ -5,8 +5,8 @@ In the project directory, you can run:
 ### `npm i`
 Run this command to install all the dependencies. You have to run `npm i` in current directory as well as in `.\frontend`. 
 ### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000)
+Runs `npm start` in `./frontend` to start the project.\
+Open [http://localhost:3000](http://localhost:3000). 
 The page will reload automatically if you make changes in the code.\
 Errors will be displayed in the browser's console.
 

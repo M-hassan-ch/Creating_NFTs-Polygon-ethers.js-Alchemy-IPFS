@@ -2,6 +2,8 @@
 This project was bootstrapped with [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html).
 ## Available Scripts
 In the project directory, you can run:
+### `npm i`
+Run this command to install all the dependencies. You have to run `npm i` in current directory as well as in `.\frontend`. 
 ### `yarn dev`
 Runs the app in the development mode.\
 Open [http://localhost:7777](http://localhost:7777) or [0.0.0.0:7777](0.0.0.0:7777) to view it in the browser. or you can change the `PORT` from .env.local file.
